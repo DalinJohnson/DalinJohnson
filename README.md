@@ -25,10 +25,10 @@
 const aswath-tamilan = {
     location: "Tamil Nadu, India 🇮🇳",
     role: "Full Stack Developer @ Botlytix Technologies",
-    degree: "Bachelor's Degree — (Your College Name), (Year)",
+    degree: "Bachelor's Degree — (Arual Anander College), (2025)",
 
     stack: {
-        frontend: ["Angular", "React.js", "TypeScript", "Tailwind CSS"],
+        frontend: ["Angular", "React.js","Flutter", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth", "RBAC"],
         database: ["PostgreSQL", "MySQL"],
         devOps: ["Linux VPS", "Nginx", "PM2", "SSL", "Git & GitHub"],
