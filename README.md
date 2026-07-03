@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Hey%2C%20I'm%20Dalin%20Johnson%20%F0%9F%91%8B&amp;fontSize=34&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20Enterprise%20Web%20Applications&amp;descAlignY=55&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Hey%2C%20I'm%20Dalin%20Johnson%20%F0%9F%91%8B&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20Enterprise%20Web%20Applications&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full+Stack+Developer+%40+Botlytix+Technologies;Angular+%7C+React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+SaaS+%26+Enterprise+Platforms;20%2B+Real-World+Projects+Shipped+to+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&background=0D1117&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%40+Botlytix+Technologies;Angular+%7C+React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+SaaS+%26+Enterprise+Platforms;20%2B+Real-World+Projects+Shipped+to+Production" alt="Typing SVG" />
 
 <br>
 
-<a href="https://linkedin.com/in/dalin-johnson-a-090304-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="mailto:dalinjohnson3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="https://botlytix.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="https://github.com/aswath-tamilan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/dalin-johnson-a-090304-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:dalinjohnson3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://botlytix.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/aswath-tamilan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=aswath-tamilan&amp;label=Profile%20Views&amp;color=0D1117&amp;style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aswath-tamilan&label=Profile%20Views&color=0D1117&style=for-the-badge" />
 
 </div>
 
@@ -22,13 +22,13 @@
 ## 🚀 About Me
 
 ```javascript
-const aswath-tamilan = {
+const dalinJohnson = {
     location: "Tamil Nadu, India 🇮🇳",
     role: "Full Stack Developer @ Botlytix Technologies",
-    degree: "Bachelor's Degree — (Arual Anander College), (2025)",
+    degree: "Bachelor's Degree — Arul Anandar College (2025)",
 
     stack: {
-        frontend: ["Angular", "React.js","Flutter", "TypeScript", "Tailwind CSS"],
+        frontend: ["Angular", "React.js", "Flutter", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth", "RBAC"],
         database: ["PostgreSQL", "MySQL"],
         devOps: ["Linux VPS", "Nginx", "PM2", "SSL", "Git & GitHub"],
@@ -42,7 +42,7 @@ const aswath-tamilan = {
     motto: () => "Code it. Ship it. Optimize it. Repeat. 🔁",
 };
 
-console.log(aswath-tamilan.motto());
+console.log(dalinJohnson.motto());
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -51,7 +51,7 @@ console.log(aswath-tamilan.motto());
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nodejs,express,postgres,mysql,nginx,linux,git,github,vscode,postman,bootstrap,tailwind&amp;theme=dark&amp;perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nodejs,express,postgres,mysql,nginx,linux,git,github,vscode,postman,bootstrap,tailwind&theme=dark&perline=9" />
 
 </div>
 
@@ -61,14 +61,14 @@ console.log(aswath-tamilan.motto());
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswath-tamilan&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath-tamilan&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aswath-tamilan&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath-tamilan&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" width="35%"/>
 
-<img src="https://streak-stats.demolab.com?user=aswath-tamilan&amp;theme=tokyonight&amp;background=0D1117&amp;hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=aswath-tamilan&theme=tokyonight&background=0D1117&hide_border=true" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath-tamilan&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath-tamilan&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aswath-tamilan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aswath-tamilan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=1" width="95%"/>
 
 </div>
 
@@ -127,7 +127,7 @@ console.log(aswath-tamilan.motto());
 
 ## 🎓 Education & Growth
 
-> 🏫 **Bachelor's Degree** — *(Your College Name)*, *(Year)*
+> 🏫 **Bachelor's Degree** — *Arul Anandar College* (2025)
 
 **📚 Currently Learning:** `Cloud-Native Architecture` · `AI / LLM Integrations` · `Advanced System Design`
 
@@ -140,6 +140,6 @@ console.log(aswath-tamilan.motto());
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://botlytix.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/aswath-tamilan)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=150&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=150&section=footer" width="100%"/>
 
 </div>
